@@ -13,6 +13,10 @@ public class RESTAPITest {
 		System.out.println("NativeAppAnroid2"); 
 		System.out.println("NativeAppAnroid3"); 
 
+		System.out.println("NativeAppAnroid4"); 
+		System.out.println("NativeAppAnroid5"); 
+		System.out.println("NativeAppAnroid6");
+		System.out.println("NativeAppAnroid7"); 
 	} 
 
   
