@@ -10,6 +10,8 @@ public class RESTAPITest {
 	public void NativeAppAnroid() { 
 
 		System.out.println("NativeAppAnroid"); 
+		System.out.println("NativeAppAnroid2"); 
+		System.out.println("NativeAppAnroid3"); 
 
 	} 
 
