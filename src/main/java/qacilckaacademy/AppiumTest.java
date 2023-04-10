@@ -4,38 +4,30 @@ import org.testng.annotations.Test;
 
 public class AppiumTest {
 
-	@Test 
+	@Test
 
-	  
-
-	public void PostJira() { 
+	public void PostJira() {
 
 		System.out.println("PostJira");
-		System.out.println("PostJira"); 
+		System.out.println("PostJira");
 
-	} 
-	
-	public void PostJira1() { 
+	}
+
+	public void PostJira1() {
 
 		System.out.println("PostJira");
-		System.out.println("PostJira"); 
+		System.out.println("PostJira");
 
-	} 
+	}
 
-  
+	@Test
 
-	@Test 
-
-	public void deleteTvitter() { 
+	public void deleteTvitter() {
 
 		System.out.println("deleteTvitter");
 		System.out.println("deleteTvitter");
 		System.out.println("deleteTvitter");
 
-	} 
+	}
 
-	 
-
-  
-
-} 
+}

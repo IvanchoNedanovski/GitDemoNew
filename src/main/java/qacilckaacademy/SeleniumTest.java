@@ -3,36 +3,35 @@ package qacilckaacademy;
 import org.testng.annotations.Test;
 
 public class SeleniumTest {
-	@Test 
+	@Test
 
-	  
-
-	public void BrowserAutomation() { 
+	public void BrowserAutomation() {
 
 		System.out.println("BrowserAutomation");
-		System.out.println("WebAutomation"); 
-
-	} 
-
-  
-
-	@Test 
-
-	public void elementsUI() { 
-
-		System.out.println("elementsUI"); 
+		System.out.println("WebAutomation");
 
 	}
-	
-	public void elementsUI1() { 
 
-		System.out.println("elementsUI"); 
+	@Test
 
-	} 
-	public void elementsUI2() { 
+	public void elementsUI() {
 
-		System.out.println("elementsUI2"); 
+		System.out.println("elementsUI");
 
-	} 
+	}
+
+	@Test
+	public void elementsUI1() {
+
+		System.out.println("elementsUI");
+
+	}
+
+	@Test
+	public void elementsUI2() {
+
+		System.out.println("elementsUI2");
+
+	}
 
 }
